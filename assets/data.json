@@ -1,0 +1,20 @@
+{
+  "links": [
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@joaquinmetayer"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joaquinmetayer"
+    },
+    {
+      "platform": "GitHub",
+      "url": "https://www.github.com/joaquinmetayer"
+    }
+  ],
+  "heroImage": "2d910147-9a35-4bbd-8cfe-6e580731c816.png",
+  "heroWidth": [
+    "30%"
+  ]
+}

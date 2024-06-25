@@ -1,0 +1,17 @@
+* {
+  font-family: monospace;
+  box-sizing: border-box;
+  color: #000000;
+}
+body {
+  padding: 0 5px;
+  max-width: 800px;
+}
+img {
+  width: 100%;
+}
+iframe {
+  aspect-ratio: 16 / 9;
+  border: none;
+  width: 100%;
+}
