@@ -1,5 +1,3 @@
-## hello stalker, mas info en www.joaquinmetayer.com
-
 ```javascript
 // requisitos
 // - nodejs (https://nodejs.org)
